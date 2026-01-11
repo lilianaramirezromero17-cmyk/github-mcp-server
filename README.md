@@ -4,7 +4,7 @@ The GitHub MCP Server connects AI tools directly to GitHub's platform. This give
 
 ### Use Cases
 
-- Repository Management: Browse and query code, search files, analyze commits, and understand project structure across any repository you have access to.
+- Repository Management: Browsjjlonvce and query code, search files, analyze commits, and understand project structure across any repository you have access to.
 - Issue & PR Automation: Create, update, and manage issues and pull requests. Let AI help triage bugs, review code changes, and maintain project boards.
 - CI/CD & Workflow Intelligence: Monitor GitHub Actions workflow runs, analyze build failures, manage releases, and get insights into your development pipeline.
 - Code Analysis: Examine security findings, review Dependabot alerts, understand code patterns, and get comprehensive insights into your codebase.
